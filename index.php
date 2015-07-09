@@ -2,7 +2,7 @@
 	print "test";
 	print "another string";
 
-	echo "";
+	echo "online changes";
 ?>
 
 <html>
